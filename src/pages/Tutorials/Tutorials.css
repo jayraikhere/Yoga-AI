@@ -1,0 +1,33 @@
+.tutorials-container {
+    width: 100vw;
+    min-height: 100vh;
+    background: linear-gradient(100deg, #FF8C00, #FFA500);
+}
+.tutorials-heading {
+    font-size: 54px;
+    /* margin-left: 100px; */
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.tutorials-content {
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 4px;
+}
+.tutorials-content-container {
+    width: 100%;
+}
+.possible-solutions {
+    color: white;
+    font-size:30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family:'Raleway', sans-serif;
+}
